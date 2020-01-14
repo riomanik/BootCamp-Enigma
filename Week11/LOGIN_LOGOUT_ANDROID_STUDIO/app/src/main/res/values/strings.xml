@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Projeck-Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="InputUsername">Input Username</string>
+    <string name="InputPassword">Input Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="button">Login</string>
+    <string name="todo">TODO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">INI FRAGEMENT PAY</string>
+    <string name="User">User</string>
+    <string name="Setting">Setting</string>
+    <string name="FRAGMENT_PAY">FRAGMENT PAY</string>
+    <string name="FRAGMENT_PROMO">FRAGMENT PROMO</string>
+    <string name="Nama">Nama :</string>
+    <string name="Logout">Logout</string>
+</resources>

@@ -1,0 +1,7 @@
+com\enigma\rio\config\DaoConfig.class
+com\enigma\rio\db\entity\Batch.class
+com\enigma\rio\Appilication.class
+com\enigma\rio\db\repository\BatchRepository.class
+com\enigma\rio\controller\BatchController.class
+com\enigma\rio\service\BatchServiceImpl.class
+com\enigma\rio\service\BatchService.class

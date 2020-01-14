@@ -1,0 +1,36 @@
+2019-11-04 17:07:11,389 INFO com.enigma.rio.calculator.Application [main] Starting Application on DESKTOP-5G0628J with PID 18472 (E:\eclipse-workspace\calculator\target\classes started by EnigmaCamp in E:\eclipse-workspace\calculator)
+2019-11-04 17:07:11,393 DEBUG com.enigma.rio.calculator.Application [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-11-04 17:07:11,394 INFO com.enigma.rio.calculator.Application [main] No active profile set, falling back to default profiles: default
+2019-11-04 17:07:11,866 INFO com.enigma.rio.calculator.Application [main] Started Application in 0.903 seconds (JVM running for 3.776)
+2019-11-04 17:07:11,868 ERROR com.enigma.rio.calculator.service.CalculatorService [main] / by zero
+2019-11-04 17:07:11,868 DEBUG com.enigma.rio.calculator.Application [main] 
+2019-11-04 17:07:11,869 DEBUG com.enigma.rio.calculator.service.CalculatorService [main] 5
+2019-11-04 17:07:11,871 DEBUG com.enigma.rio.calculator.Application [main] 5
+2019-11-04 17:07:11,872 DEBUG com.enigma.rio.calculator.Application [main] This is a debug message
+2019-11-04 17:07:11,873 INFO com.enigma.rio.calculator.Application [main] This is an info message
+2019-11-04 17:07:11,874 WARN com.enigma.rio.calculator.Application [main] This is a warn message
+2019-11-04 17:07:11,875 ERROR com.enigma.rio.calculator.Application [main] This is an error message
+2019-11-04 17:08:17,895 INFO com.enigma.rio.calculator.Application [main] Starting Application on DESKTOP-5G0628J with PID 17988 (E:\eclipse-workspace\calculator\target\classes started by EnigmaCamp in E:\eclipse-workspace\calculator)
+2019-11-04 17:08:17,900 DEBUG com.enigma.rio.calculator.Application [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-11-04 17:08:17,901 INFO com.enigma.rio.calculator.Application [main] No active profile set, falling back to default profiles: default
+2019-11-04 17:08:18,359 INFO com.enigma.rio.calculator.Application [main] Started Application in 0.883 seconds (JVM running for 3.747)
+2019-11-04 17:08:18,360 ERROR com.enigma.rio.calculator.service.CalculatorService [main] / by zero
+2019-11-04 17:08:18,361 DEBUG com.enigma.rio.calculator.Application [main] 
+2019-11-04 17:08:18,362 DEBUG com.enigma.rio.calculator.service.CalculatorService [main] 5
+2019-11-04 17:08:18,364 DEBUG com.enigma.rio.calculator.Application [main] 5
+2019-11-04 17:08:18,364 DEBUG com.enigma.rio.calculator.Application [main] This is a debug message
+2019-11-04 17:08:18,365 INFO com.enigma.rio.calculator.Application [main] This is an info message
+2019-11-04 17:08:18,366 WARN com.enigma.rio.calculator.Application [main] This is a warn message
+2019-11-04 17:08:18,368 ERROR com.enigma.rio.calculator.Application [main] This is an error message
+2019-11-04 17:18:58,880 INFO com.enigma.rio.calculator.Application [main] Starting Application on DESKTOP-5G0628J with PID 7952 (E:\eclipse-workspace\calculator\target\classes started by EnigmaCamp in E:\eclipse-workspace\calculator)
+2019-11-04 17:18:58,884 DEBUG com.enigma.rio.calculator.Application [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-11-04 17:18:58,885 INFO com.enigma.rio.calculator.Application [main] No active profile set, falling back to default profiles: default
+2019-11-04 17:18:59,323 INFO com.enigma.rio.calculator.Application [main] Started Application in 0.859 seconds (JVM running for 3.764)
+2019-11-04 17:18:59,324 ERROR com.enigma.rio.calculator.service.CalculatorService [main] / by zero
+2019-11-04 17:18:59,325 DEBUG com.enigma.rio.calculator.Application [main] 
+2019-11-04 17:18:59,326 DEBUG com.enigma.rio.calculator.service.CalculatorService [main] 5
+2019-11-04 17:18:59,327 DEBUG com.enigma.rio.calculator.Application [main] 5
+2019-11-04 17:18:59,329 DEBUG com.enigma.rio.calculator.Application [main] This is a debug message
+2019-11-04 17:18:59,329 INFO com.enigma.rio.calculator.Application [main] This is an info message
+2019-11-04 17:18:59,330 WARN com.enigma.rio.calculator.Application [main] This is a warn message
+2019-11-04 17:18:59,331 ERROR com.enigma.rio.calculator.Application [main] This is an error message

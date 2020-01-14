@@ -1,0 +1,36 @@
+.form {
+  display: flex;
+  /* width: 100%; */
+  /* display: inline-block; */
+  justify-content: center;
+  margin-top: 15%;
+}
+.form2 {
+  display: flex;
+  /* width: 100%; */
+  /* display: inline-block; */
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10%;
+  font-size: large;
+  /* opacity: 0; */
+}
+
+.container2 {
+  display: flex;
+  margin: auto;
+  width: 1920px;
+  height: 980px;
+  font-size: large;
+  background: url("https://images.unsplash.com/photo-1507561152-ed3719ac59f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80");
+}
+.container3 {
+  width: 1920px;
+  height: 980px;
+  background: url("https://images.unsplash.com/photo-1507561152-ed3719ac59f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80");
+}

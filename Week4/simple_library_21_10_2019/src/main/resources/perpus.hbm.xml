@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Maping DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-maping-3.0.dtd">
+		
+<hibernate-mapping>
+	<class name="com.enigma.model.Perpustakaan" table="perpus">
+		<id name="id" type="int" column="id">
+			<generator class="native"/>
+		</id>
+		<property name="nama" type="string" column="nama"/>
+		<property name="author" type="string" column="author"/>
+		<property name="genre" type="string" column="genre"/>
+		<property name="tahunTerbit" type="Integer" column="tahun_terbit"/>
+		<property name="totalStock" type="Integer" column="total_stock"/>
+		<property name="curentStock" type="Integer" column="curent_stock"/>
+	</class>
+</hibernate-mapping>

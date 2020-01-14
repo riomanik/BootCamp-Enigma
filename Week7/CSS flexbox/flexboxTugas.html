@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <style>
+      .wrapper {
+        display: flex;
+        flex-flow: row wrap;
+        font-weight: bold;
+        text-align: center;
+      }
+
+      .wrapper > * {
+        padding: 10px;
+        flex: 1 100%;
+      }
+
+      .header {
+        background: tomato;
+      }
+
+      .footer {
+        background: lightgreen;
+      }
+
+      .main {
+        text-align: left;
+        background: deepskyblue;
+      }
+
+      .aside-1 {
+        background: gold;
+      }
+
+      .aside-2 {
+        background: hotpink;
+      }
+
+      @media all {
+        .aside {
+          flex: 0.5 0 0;
+        }
+      }
+
+      @media all {
+        .main {
+          flex: 2 0px;
+        }
+        .aside-1 {
+          order: 1;
+        }
+        .main {
+          order: 2;
+        }
+        .footer {
+          order: 3;
+        }
+      }
+      p {
+        text-align: center;
+        width: 20vh;
+        height: 20vw;
+      }
+
+      body {
+        padding: 32px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">Header</header>
+      <article class="main">
+        <p>
+          CONTENT
+        </p>
+      </article>
+      <aside class="aside aside-1">SIDEBAR</aside>
+      <footer class="footer">FOOTER</footer>
+    </div>
+  </body>
+</html>
